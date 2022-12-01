@@ -1,0 +1,6 @@
+projectKey=VulpyJMGS
+serverUrl=http://172.31.16.111
+serverVersion=9.7.1.62043
+dashboardUrl=http://172.31.16.111/dashboard?id=VulpyJMGS
+ceTaskId=AYTNmq5YqdoNxM316ttf
+ceTaskUrl=http://172.31.16.111/api/ce/task?id=AYTNmq5YqdoNxM316ttf
